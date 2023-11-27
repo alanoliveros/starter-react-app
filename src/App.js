@@ -9,15 +9,14 @@ function App() {
         <p>
           SURE <code>UY</code> .
         </p>
-
-        {/*<a*/}
-        {/*  className="App-link"*/}
-        {/*  href="https://reactjs.org"*/}
-        {/*  target="_blank"*/}
-        {/*  rel="noopener noreferrer"*/}
-        {/*>*/}
-        {/*  Learn React*/}
-        {/*</a>*/}
+        <a
+          className="App-link"
+          href="https://www.facebook.com/uy.sure"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+            SURE UY
+        </a>
       </header>
     </div>
   );
